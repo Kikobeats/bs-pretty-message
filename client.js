@@ -1,7 +1,7 @@
 (function (socket) {
   var SHOW_MESSAGE_EVENT = 'fullscreen:message'
   var HIDE_MESSAGE_EVENT = 'fullscreen:message:clear'
-  var MESSAGE_ID = 'bs-fullscreen-message'
+  var MESSAGE_ID = 'bs-pretty-message'
 
   var styles = {
     'opacity': 0.98,
