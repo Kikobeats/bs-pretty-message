@@ -1,5 +1,7 @@
 ## bs-fullscreen-message
 
+![](https://cloud.githubusercontent.com/assets/2096101/18839400/2bd60266-840b-11e6-9dea-db682b81197f.png)
+
 > Overlay a fullscreen message to all browsers
 
 Useful for showing errors from webpack/browserify/gulp etc
@@ -28,13 +30,3 @@ setTimeout(function () {
     });
 }, 5000);
 ```
-
-### Example from `webpack.babel` recipe
-
-Checkout the example here https://github.com/BrowserSync/recipes/blob/master/recipes/webpack.babel/app.js
-
-![fullscreen](https://s31.postimg.org/cfa3zg3fv/Screen_Shot_2016_06_16_at_09_15_30.png)
-
-### Example from using `gulp-sass` plugin
-
-![fullscreen](https://s31.postimg.org/rcil0ggob/Screen_Shot_2016_06_16_at_09_14_03.png)
