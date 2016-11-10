@@ -1,7 +1,7 @@
 {
   "name": "bs-pretty-message",
   "description": "Overlay a fullscreen message to all browsers, but maintained.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "author": "",
   "keywords": [
@@ -14,9 +14,6 @@
   "devDependencies": {
     "standard": "~8.5.0"
   },
-  "peerDependencies": {
-    "browser-sync": "2"
-  },
   "files": [
     "client.js",
     "index.js",
@@ -25,5 +22,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "peerDependencies": {
+    "browser-sync": "2"
+  }
 }

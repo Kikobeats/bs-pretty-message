@@ -1,3 +1,12 @@
+<a name="1.0.1"></a>
+## 1.0.1 (2016-11-10)
+
+* Browser sync as peer dependency ([73ca2f9](https://github.com/Kikobeats/bs-pretty-message/commit/73ca2f9))
+* Updated docs ([844672f](https://github.com/Kikobeats/bs-pretty-message/commit/844672f))
+* chore(package): update dependencies ([2077217](https://github.com/Kikobeats/bs-pretty-message/commit/2077217))
+
+
+
 <a name="1.0.0"></a>
 # 1.0.0 (2016-11-10)
 
