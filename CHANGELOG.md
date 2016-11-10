@@ -1,3 +1,10 @@
+<a name="1.0.2"></a>
+## 1.0.2 (2016-11-10)
+
+* Rename ([b32093a](https://github.com/Kikobeats/bs-pretty-message/commit/b32093a))
+
+
+
 <a name="1.0.1"></a>
 ## 1.0.1 (2016-11-10)
 

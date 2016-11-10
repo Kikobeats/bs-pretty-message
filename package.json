@@ -1,7 +1,7 @@
 {
   "name": "bs-pretty-message",
   "description": "Overlay a fullscreen message to all browsers, but maintained.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "author": "",
   "keywords": [
