@@ -12,7 +12,7 @@
     "pretty"
   ],
   "devDependencies": {
-    "standard": "~8.5.0"
+    "standard": "~8.6.0"
   },
   "files": [
     "client.js",
