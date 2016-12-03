@@ -31,14 +31,15 @@
   function createMessage (data) {
     var el = document.createElement('div')
     el.id = MESSAGE_ID
-
+    
+    for (var key in data.styles) styles[key] = data.styles[key]
     for (var key in styles) el.style[key] = styles[key]
 
-    el.innerHTML = '<h1 style="%s">%s</h1><div style="%s"><pre style="%s">%s</pre></div>'
+    el.innerHTML = '<h1 style="%s">%s</h1><div style="%s"><pre style="white-space:pre;%s">%s</pre></div>'
       .replace('%s', data.titleStyles || '')
       .replace('%s', data.title || 'Message from Browsersync')
       .replace('%s', data.wrapperStyles || '')
-      .replace('%s', data.preStyles || 'white-space:pre')
+      .replace('%s', data.preStyles || '')
       .replace('%s', data.body || 'Something happened; Check the console')
 
     return el
