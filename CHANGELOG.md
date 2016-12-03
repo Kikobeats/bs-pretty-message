@@ -1,3 +1,13 @@
+<a name="1.0.3"></a>
+## 1.0.3 (2016-12-03)
+
+* update z-index with comment ([9b3255a](https://github.com/Kikobeats/bs-pretty-message/commit/9b3255a))
+* chore(package): update browser-sync to version 2.18.1 ([dd35e3f](https://github.com/Kikobeats/bs-pretty-message/commit/dd35e3f))
+* chore(package): update browser-sync to version 2.18.2 ([d9150dd](https://github.com/Kikobeats/bs-pretty-message/commit/d9150dd))
+* chore(package): update standard to version 8.6.0 ([bbf2bd7](https://github.com/Kikobeats/bs-pretty-message/commit/bbf2bd7))
+
+
+
 <a name="1.0.2"></a>
 ## 1.0.2 (2016-11-10)
 
