@@ -43,15 +43,21 @@
 
     return el
   }
+  
+  function closeOnEsc ( e ) {
+    if ( event.keyCode == 27 ) removeMessage(body)
+  }
 
   var body = document.getElementsByTagName('body')[0]
 
   socket.on(HIDE_MESSAGE_EVENT, function () {
     removeMessage(body)
+    window.document.removeEventListener('keydown', closeOnEsc)
   })
 
   socket.on(SHOW_MESSAGE_EVENT, function (data) {
     removeMessage(body)
     body.appendChild(createMessage(data))
+    window.document.addEventListener('keydown', closeOnEsc)
   })
 })(window.___browserSync___.socket)
