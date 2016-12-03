@@ -1,3 +1,11 @@
+<a name="1.0.4"></a>
+## 1.0.4 (2016-12-03)
+
+* add ability to override default styles of overlay ([80048c4](https://github.com/Kikobeats/bs-pretty-message/commit/80048c4))
+* add close on escape ([be540e2](https://github.com/Kikobeats/bs-pretty-message/commit/be540e2))
+
+
+
 <a name="1.0.3"></a>
 ## 1.0.3 (2016-12-03)
 
