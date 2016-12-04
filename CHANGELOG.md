@@ -1,3 +1,10 @@
+<a name="1.0.5"></a>
+## 1.0.5 (2016-12-04)
+
+* Pretty style ([6374f24](https://github.com/Kikobeats/bs-pretty-message/commit/6374f24))
+
+
+
 <a name="1.0.4"></a>
 ## 1.0.4 (2016-12-03)
 
