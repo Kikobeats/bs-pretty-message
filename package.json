@@ -16,8 +16,7 @@
   },
   "files": [
     "client.js",
-    "index.js",
-    "example.js"
+    "index.js"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0"

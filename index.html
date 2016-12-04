@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+
+    <style>
+        .bs-pretty-message,
+        .bs-pretty-message__wrapper,
+        .bs-pretty-message__header,
+        .bs-pretty-message__content {
+            box-sizing: border-box;
+        }
+
+        .bs-pretty-message {
+            width: 100%;
+            height: 100%;
+            display: table;
+            background-color: white;
+            color: white;
+            position: absolute;
+            font-family: Consolas;
+            top: 0;
+            left: 0;
+            padding: 1rem;
+            opacity: 0.98;
+            box-sizing: border-box;
+        }
+
+        .bs-pretty-message__wrapper {
+            background-color: rgb(202, 6, 18);
+            color: white;
+            top: 0;
+            left: 0;
+            opacity: 0.98;
+            padding: 1rem;
+            height: 100vh;
+            box-sizing: border-box;
+        }
+
+        .bs-pretty-message__header {
+            font-family: 'helvetica neue', helvetica, sans-serif;
+            box-sizing: border-box;
+        }
+
+        .bs-pretty-message__content {
+            font-family: Consolas, monaco, monospace;
+            box-sizing: border-box;
+        }
+    </style>
+
+</head>
+
+<body cz-shortcut-listen="true">
+    <h1>Browsersync fullscreen message</h1>
+
+    <div class="bs-pretty-message">
+        <div class="bs-pretty-message__wrapper">
+            <h1 class="bs-pretty-message__header">Webpack Error</h1>
+            <pre class="bs-pretty-message__content" style="white-space:pre-line;">chunk    {<b><span style="color:#A50">0<span style="color:#FFF">} <b><span style="color:#0A0">assets/js/bundle.js, 0.71da9c2faebeda847679.hot-update.js<span style="color:#FFF"> (main) 3.68 MB<b><span style="color:#0A0"> [rendered]<span style="color:#FFF">
+
+<b><span style="color:#A00">ERROR in ./src/app/Facets/index.js
+Module build failed: SyntaxError: Unexpected token, expected jsxTagEnd (19:2)
+
+</span></b></span></span></b></span></span></b></span></span></b> <span style="color:#555"> 17 | <span style="color:#FFF">      <span style="color:#A50">&lt;<span style="color:#FFF"><span style="color:#A50">FacetsWrapper<span style="color:#FFF"> {<span style="color:#A50">...<span style="color:#FFF">props} <span style="color:#A50">/<span style="color:#FFF"><span style="color:#A50">&gt;<span style="color:#FFF">
+<span style="color:#555"> 18 | <span style="color:#FFF">    <span style="color:#A50">&lt;<span style="color:#FFF"><span style="color:#A50">/<span style="color:#FFF"><span style="color:#A50">asid<span style="color:#FFF">
+<span style="color:#A00"><b>&gt;<span style="color:#FFF"><span style="color:#555"> 19 | <span style="color:#FFF">  )
+<span style="color:#555">    | <span style="color:#FFF">  <span style="color:#A00"><b>^<span style="color:#FFF">
+<span style="color:#555"> 20 | <span style="color:#FFF">}
+<span style="color:#555"> 21 | <span style="color:#FFF">
+<span style="color:#555"> 22 | <span style="color:#FFF"><span style="color:#0AA">export<span style="color:#FFF"> <span style="color:#0AA">default<span style="color:#FFF"> <span style="color:#A50">Facets<span style="color:#FFF"></span></span></span></span></span></span></span></span></span></span></span></span></span></b></span></span></span></span></span></span></b></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span>
+
+@ ./src/app/AppWrapper/index.js 15:14-34<span style="color:#FFF">
+Child <b>html-webpack-plugin for "index.html":
+  chunk    {<b><span style="color:#A50">0<span style="color:#FFF">} <b><span style="color:#0A0">index.html<span style="color:#FFF"> 553 kB</span></span></b></span></span></b></b></span></pre>
+        </div>
+    </div>
+</body>
+
+</html>
