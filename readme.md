@@ -32,3 +32,9 @@ setTimeout(function () {
 ```
 
 ## Related
+
+* [browser-sync-webpack](https://github.com/Kikobeats/browser-sync-webpack) – BrowserSync under Webpack.  
+
+## License
+
+MIT © [Kiko Beats](https://github.com/Kikobeats).
