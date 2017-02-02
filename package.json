@@ -12,7 +12,7 @@
     "pretty"
   ],
   "devDependencies": {
-    "standard": "~8.6.0"
+    "standard": "latest"
   },
   "files": [
     "client.js",
@@ -23,6 +23,6 @@
   },
   "license": "MIT",
   "peerDependencies": {
-    "browser-sync": "2.18.7"
+    "browser-sync": "2"
   }
 }
