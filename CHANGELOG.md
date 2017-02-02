@@ -1,3 +1,15 @@
+<a name="1.0.6"></a>
+## 1.0.6 (2017-02-02)
+
+* Update ([56a638c](https://github.com/Kikobeats/bs-pretty-message/commit/56a638c))
+* Update meta ([3e11f8c](https://github.com/Kikobeats/bs-pretty-message/commit/3e11f8c))
+* chore(package): update browser-sync to version 2.18.4 ([1789b24](https://github.com/Kikobeats/bs-pretty-message/commit/1789b24))
+* chore(package): update browser-sync to version 2.18.5 ([2f89bb4](https://github.com/Kikobeats/bs-pretty-message/commit/2f89bb4))
+* chore(package): update browser-sync to version 2.18.6 ([9889901](https://github.com/Kikobeats/bs-pretty-message/commit/9889901))
+* chore(package): update browser-sync to version 2.18.7 ([271149d](https://github.com/Kikobeats/bs-pretty-message/commit/271149d))
+
+
+
 <a name="1.0.5"></a>
 ## 1.0.5 (2016-12-04)
 

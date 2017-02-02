@@ -1,14 +1,14 @@
 {
   "name": "bs-pretty-message",
   "description": "Overlay a fullscreen message to all browsers, but maintained.",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "main": "index.js",
   "author": "",
   "keywords": [
-    "browsersync",
     "brower sync",
-    "plugin",
+    "browsersync",
     "message",
+    "plugin",
     "pretty"
   ],
   "devDependencies": {
