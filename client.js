@@ -14,7 +14,6 @@
       'font-family: Consolas',
       'top: 0',
       'left: 0',
-      'padding: 1rem',
       'opacity: 0.98',
       'box-sizing: border-box',
       'z-index: 2147483647'
@@ -32,7 +31,7 @@
     ],
 
     '.bs-pretty-message__header': [
-      'font-family: "helvetica neue, helvetica, sans-serif',
+      'font-family: "helvetica neue", helvetica, sans-serif',
       'box-sizing: border-box'
     ],
 
