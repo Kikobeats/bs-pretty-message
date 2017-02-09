@@ -1,3 +1,10 @@
+<a name="1.0.7"></a>
+## 1.0.7 (2017-02-09)
+
+* Fix font-family definition & remove extra padding ([20fe07d](https://github.com/Kikobeats/bs-pretty-message/commit/20fe07d))
+
+
+
 <a name="1.0.6"></a>
 ## 1.0.6 (2017-02-02)
 
