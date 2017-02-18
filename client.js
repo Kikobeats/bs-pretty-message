@@ -72,7 +72,7 @@
     var html = [
       '<div class="bs-pretty-message__wrapper">',
       '<h1 class="bs-pretty-message__header">%s</h1>',
-      '<pre class="bs-pretty-message__content" style="white-space:pre-line;">%s</pre>',
+      '<div class="bs-pretty-message__content" style="white-space:pre-line;">%s</div>',
       '</div>'
     ].join('')
 
