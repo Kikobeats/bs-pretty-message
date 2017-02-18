@@ -1,3 +1,10 @@
+<a name="1.0.8"></a>
+## 1.0.8 (2017-02-18)
+
+* Prevent most conflicts with existing styling, fix #22 ([7fdec98](https://github.com/Kikobeats/bs-pretty-message/commit/7fdec98)), closes [#22](https://github.com/Kikobeats/bs-pretty-message/issues/22)
+
+
+
 <a name="1.0.7"></a>
 ## 1.0.7 (2017-02-09)
 
