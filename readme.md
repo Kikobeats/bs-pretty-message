@@ -1,5 +1,7 @@
 ## bs-pretty-message
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Kikobeats/bs-pretty-message.svg)](https://greenkeeper.io/)
+
 ![](https://cloud.githubusercontent.com/assets/2096101/18839400/2bd60266-840b-11e6-9dea-db682b81197f.png)
 
 > Overlay a fullscreen message to all browsers. Useful for showing errors from webpack/browserify/gulp, etc.
